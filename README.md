@@ -1,4 +1,4 @@
 # Headless-PDF-Keywordfinder
 Search for keywords in your pdfs
 
-#Slow #Multiplattform
+#Slow #Multiplatform
